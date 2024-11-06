@@ -61,3 +61,4 @@ stages:
         priority: '0'
         deviceOption: 'Single Device'
         deviceId: 'EDIoT2024Identity20'
+      displayName: 'Deploy to IoT Edge devices'
