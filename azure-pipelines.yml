@@ -60,5 +60,5 @@ stages:
         deploymentid: '$(System.TeamProject)-devops-deployment'
         priority: '0'
         deviceOption: 'Single Device'
-        deviceId: 'EDIoT2024Identity20'
+        deviceId: 'EDIoT2024Identity21'
       displayName: 'Deploy to IoT Edge devices'
